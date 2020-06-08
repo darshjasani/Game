@@ -7,4 +7,5 @@ The player who succeeds in placing three of their marks in a horizontal, vertica
 
 
 It has two option.
+
 One is play with computer and other is with human.
